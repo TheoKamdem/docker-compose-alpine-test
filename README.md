@@ -1,8 +1,8 @@
-# docker-compose-alpine-test
+## docker-compose-alpine-test
 this  is  docker-compose  alpine  test and  course 
-_construis  uniquement  les  images_ :
+__construis  uniquement  les  images__ :
 ```docker-compose  build```
-_build  et run   les  images_ :
+__build  et run   les  images__ :
 ```docker-compose  up \```
-_build  et run   les  images en  node detachés_ :
+__build  et run   les  images en  node detachés__ :
 ```docker-compose  up -d```
